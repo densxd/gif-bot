@@ -12,6 +12,6 @@ Uzun zamandır kodu bende hiç bi yerde kullanmadım. Hayırlısı olursa sizde 
 > Reklam/Invite engelleme. (Opsiyon Açıp kapatabiliyorsunuz)\
 > Kullanıcı hangi kanallarda paylaşım yapılmış görebilme PP/GIF şeklinde.\
 > Aylık roller. (Opsiyon Açıp kapatabiliyorsunuz)\
-> Gün'de kaç PP/GIF atılmış bakabilme hangi kategoriler vs. (Geçmiş günleride gösteriyor)
+> Gün'de kaç PP/GIF atılmış bakabilme hangi kategoriler vs. (Geçmiş günleride gösteriyor)\
 > Otomatik Rol + Log. (Opsiyon Açıp kapatabiliyorsunuz)\
 > Random PP Gifli/Normal | Random Banner Gifli/Normal. (Ayarlanan kanallara atılır)\
